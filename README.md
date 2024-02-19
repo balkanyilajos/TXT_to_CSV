@@ -5,7 +5,7 @@ Az emelt informatika érettségi SQL részéhez XAMPP-ot biztosítanak, mellyel 
 
 # Használatának menete
 
-1. Futtatásához szükséges előbb engedélyezni a scriptek futtatását, melyet a rendszergazdaként indított PowerShellbe írva megtörténik: set-executionpolicy remotesigned
+1. Futtatásához szükséges előbb engedélyezni a scriptek futtatását, melyet a rendszergazdaként indított PowerShellbe írva megtörténik: ``` set-executionpolicy remotesigned ```
 
 2. Az átalakítandó fájlokat a script mellé kell helyezni.
 
