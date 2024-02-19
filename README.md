@@ -1,11 +1,11 @@
 # Segítség az emelt informatika érettségihez (digitális kultúra) SQL részéhez
 
-Az emelt informatika érettségi SQL részéhez XAMPP-ot biztosítanak, mellyel MariaDB szerverhez kell kapcsolódni. A régi SQL feladatokhoz csatolt adatokat tartalmazó txt-vel nem lehet azonnal dolgozni, mivel egyedi formátumban adták meg az érettségi készítők az adatokat tartalmazó fájlt. Azonban egy egyszerű script segítségével gyorsan CSV formátumba lehet alakítani, melyet már ismer a XAMPP.
+Az emelt informatika érettségi SQL részéhez XAMPP-ot biztosítanak, mellyel MariaDB szerverhez kell kapcsolódni. A régi SQL feladatokhoz csatolt adatokat tartalmazó txt-vel nem lehet azonnal dolgozni, mivel egyedi formátumban adták meg az érettségi készítők az adatokat tartalmazó fájlt. Azonban egy egyszerű script segítségével gyorsan CSV formátumba lehet alakítani az adatokat, melyet már ismer a szoftver.
 
 
 # Használatának menete
 
-1. Futtatásához szükséges előbb engedélyezni a scriptek futtatását, melyet a rendszergazdaként indított PowerShellbe írva megtörténik: set-executionpolicy remotesigned
+1. Futtatásához szükséges előbb engedélyezni a scriptek futtatását, melyet a rendszergazdaként indított PowerShellbe írva megtörténik: ```set-executionpolicy remotesigned
 
 2. Az átalakítandó fájlokat a script mellé kell helyezni.
 
